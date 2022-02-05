@@ -1,0 +1,10 @@
+1. Train our model
+2. create web app usin flask
+3. commit te code in github
+4. create an account in Heroku
+5. link the Github to Heroku
+6. Deploy the model
+7. web app is ready 
+
+GET : to request data from the server.
+POST : to submit data to be processed to the server.
